@@ -1,0 +1,22 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dng:home|Door43 (dng)]]
+  * [[en:license|License]]
+
+**Resources**
+
+  * [[dng:obs|Open Bible Stories (dng)]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dng|d43-dng repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dng/archive/master.zip|d43-dng.zip]]
+
+**Recent Changes**
+{{changes>ns = dng}}
+
+**Latest Status**
+{{page>en:uwadmin:dng:obs:status}}
+

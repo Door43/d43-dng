@@ -17,10 +17,6 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 **Recent Changes**
 {{changes>ns = dng}}
 
-**Latest Status**
-{{page>en:uwadmin:dng:obs:status}}
-
-
 **Language Information**
 
 [[http://www.ethnologue.com/language/dng|Ethnologue data]]
